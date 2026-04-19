@@ -9,8 +9,7 @@
   [![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](#)
   
   <br>
-  <!-- REPLACE THE LINK BELOW WITH YOUR ACTUAL STREAMLIT LINK IF IT DIFFERS -->
-  <a href="https://share.streamlit.io/lekshmiparu23-ai/EDA_WITH_SQL/main/app.py">
+  <a href="https://edawithsql-dta6mll2gpgmxtpbcfxssd.streamlit.app/">
     <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit" height="45">
   </a>
 </div>
